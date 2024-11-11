@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-My name is Raphael Odeareduo. I enjoy all things tech 💻 and the art of making things happen on your screen. 
+My name is Raphael Odeareduo. 
+
+I enjoy all things tech 💻 and the art of making things happen on your screen. 
 
 I am currently a first-year student and an aspiring Computer Science Major at MacEwan University.
 
